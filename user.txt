@@ -1,0 +1,4 @@
+admin;password
+RyadBenameur;HelloWorld
+Djamila;Blossom22
+Jay;Dungeon

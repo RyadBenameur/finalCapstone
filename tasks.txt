@@ -1,0 +1,6 @@
+RyadBenameur;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+RyadBenameur;Build New Project;Build a new project using Tkinter;2023-02-09;2024-02-06;Yes
+admin;Create new password;make a new password;2024-06-27;2024-02-22;Yes
+RyadBenameur;Build a working function;Build a function that works well without logic errors.;2024-11-20;2024-02-23;No
+Jay;Create a new file;Create a new file to include in the program;2020-02-03;2024-02-25;No
+Jay;Cook some Lunch;Cook some vegan food to fit everyones need.;2024-02-20;2024-02-25;No
